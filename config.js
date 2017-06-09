@@ -9,7 +9,7 @@ function Config() {
 //Config.actor = { "mbox":"<learner email>", "name":"<Learner Name>" };
 //Config.registration = "<registration-uuid>";
 
-Config.endpoint = "https://sandbox.watershedlrs.com/api/organizations/4781/";
+Config.endpoint = "https://sandbox.watershedlrs.com/api/organizations/4781/lrs/";
 Config.authUser = "778f48b68331df";
 Config.authPassword = "a14a9bf93e57a3";
 Config.actor = { "mbox":"<learner email>", "name":"<Learner Name>" };
